@@ -3,10 +3,10 @@
     <channel>
         <title>Prometeo</title>
         <item>
-            <title>Version 1.0.1</title>
-            <description>Esta es la descripción de la versión 1.0.3. Hola Mundo</description>
+            <title>Prometeo Version 1.0.4</title>
+            <description>Esta es la descripción de la versión 1.0.4. Hola Mundo</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.0.3" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.0.4" sparkle:os="android" />
         </item>
     </channel>
 </rss>
