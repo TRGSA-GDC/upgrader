@@ -3,6 +3,13 @@
     <channel>
         <title>Prometeo</title>        
         <item>
+            <title>Prometeo Version 1.0.2</title>
+            <sparkle:version>1.0.2</sparkle:version>
+            <description>Esta es la descripción de la versión 1.0.2. Holi Mundo</description>
+            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=es.tragsa.encargado.rrhh.sido" sparkle:os="android" />
+        </item>
+        <item>
             <title>Prometeo Version 1.0.1</title>
             <sparkle:version>1.0.1</sparkle:version>
             <description>Esta es la descripción de la versión 1.0.1. Hola Mundo</description>
