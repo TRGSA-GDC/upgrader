@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Prometeo</title>      
-        ///<item>
-            ///<title>Prometeo Version 1.0.0-beta2</title>
-           /// <sparkle:version>1.0.0-beta.2</sparkle:version>
-            ///<description>Esta es la descripción de la versión 1.0.0-beta.1 </description>
-            ///<pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            ///<enclosure url="https://play.google.com/store/apps/details?id=es.tragsa.encargado.rrhh.sido" sparkle:os="android" />
-       /// </item>
+        <!---item>
+            <title>Prometeo Version 1.0.0-beta2</title>
+            <sparkle:version>1.0.0-beta.2</sparkle:version>
+            <description>Esta es la descripción de la versión 1.0.0-beta.1 </description>
+            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=es.tragsa.encargado.rrhh.sido" sparkle:os="android" />
+       </item-->
     </channel>
 </rss>
