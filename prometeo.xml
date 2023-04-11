@@ -3,6 +3,13 @@
     <channel>
         <title>MITRA</title>   
         <item>
+            <title>MITRA Version 1.0.0-beta.4</title>
+            <sparkle:version>1.0.0-beta.4</sparkle:version>
+            <description>Consulta de Saldo de Justificaciones de Incidencias. Directorio de Personal</description>
+            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=es.tragsa.mitra" sparkle:os="android" />
+        </item>
+        <item>
             <title>MITRA Version 1.0.0-beta.3</title>
             <sparkle:version>1.0.0-beta.3</sparkle:version>
             <description>Opción de velado de los importes de las nóminas en la vista de nóminas.Vista de Solicitudes de Justificación de Incidencia.</description>
