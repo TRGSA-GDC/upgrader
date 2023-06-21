@@ -3,6 +3,13 @@
     <channel>
         <title>MITRA</title>
         <item>
+            <title>MITRA Version 1.0.0-beta.10</title>
+            <sparkle:version>1.0.0-beta.10</sparkle:version>
+            <description>Recuperación psw y username en pantalla principal, muestra horas restantes en pantalla fichajes</description>
+            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=es.tragsa.mitra" sparkle:os="android" />
+        </item>
+        <item>
             <title>MITRA Version 1.0.0-beta.9</title>
             <sparkle:version>1.0.0-beta.9</sparkle:version>
             <description>Recuperación psw y username en pantalla principal, muestra horas restantes en pantalla fichajes</description>
