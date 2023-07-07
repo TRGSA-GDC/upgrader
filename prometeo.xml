@@ -7,7 +7,9 @@
             <sparkle:version>1.0.0-beta.13</sparkle:version>
             <description>Ahora puedes ver avisos de grupo tragsa y consultar la información personal</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <sparkle:tags>
             <sparkle:criticalUpdate sparkle:version="1.0.0-beta.12"></sparkle:criticalUpdate>
+            </sparkle:tags>
             <enclosure url="https://play.google.com/store/apps/details?id=es.tragsa.mitra" sparkle:os="android" />
         </item>
         <item>
