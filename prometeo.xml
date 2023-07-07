@@ -3,6 +3,16 @@
     <channel>
         <title>MITRA</title>
         <item>
+            <title>MITRA Version 1.0.0-beta.14</title>
+            <sparkle:version>1.0.0-beta.14</sparkle:version>
+            <description>¡Mejoradas las entradas en muro!</description>
+            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <sparkle:tags>
+            <sparkle:criticalUpdate sparkle:version="1.0.0-beta.13"></sparkle:criticalUpdate>
+            </sparkle:tags>
+            <enclosure url="https://play.google.com/store/apps/details?id=es.tragsa.mitra" sparkle:os="android" />
+        </item>
+        <item>
             <title>MITRA Version 1.0.0-beta.13</title>
             <sparkle:version>1.0.0-beta.13</sparkle:version>
             <description>Ahora puedes ver avisos de grupo tragsa y consultar la información personal</description>
