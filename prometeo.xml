@@ -3,6 +3,16 @@
     <channel>
         <title>Espacio GT</title>
         <item>
+            <title>Espacio GT v1.2.2</title>
+            <sparkle:version>1.2.2</sparkle:version>
+            <description>Novedades v1.2.2: Mejoras Seguridad y Rendimiento.</description>
+            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <sparkle:tags>
+            <sparkle:criticalUpdate sparkle:version="1.2.2"></sparkle:criticalUpdate>
+            </sparkle:tags>
+            <enclosure url="https://play.google.com/store/apps/details?id=es.tragsa.mitra" sparkle:os="android" />
+        </item>
+        <item>
             <title>Espacio GT v1.2.0</title>
             <sparkle:version>1.2.0</sparkle:version>
             <description>Novedades v1.2: Tramitación Justificación Incidencias Ajenas, Histórico de Pasos en Justificaciones de Incidencias, Favoritos en Directorio de Personal, Cuadrante de Turnos (usuarios de SIDO2)</description>
