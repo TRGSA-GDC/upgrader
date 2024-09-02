@@ -6,6 +6,9 @@
             <title>Espacio GT v1.5.0</title>
             <description>Novedades v1.5: Solicitud de Cursos de Formación para el Plan Anual de Formación 2025.</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <sparkle:tags>
+                <sparkle:criticalUpdate sparkle:version="1.5.0"></sparkle:criticalUpdate>
+            </sparkle:tags>
             <enclosure url="https://apps.apple.com/es/app/espacio-gt/id6449706010"  sparkle:version="1.5.0" sparkle:os="ios"/>
         </item>
     </channel>
