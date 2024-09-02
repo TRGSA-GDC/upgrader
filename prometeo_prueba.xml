@@ -9,7 +9,7 @@
             <sparkle:tags>
                 <sparkle:criticalUpdate sparkle:version="1.5.0"></sparkle:criticalUpdate>
             </sparkle:tags>
-            <enclosure url="https://apps.apple.com/es/app/espacio-gt/id6449706010"  sparkle:version="1.5.0" sparkle:os="ios"/>
+            <enclosure url="https://itunes.apple.com/lookup?bundleId=es.tragsa.mitra"  sparkle:version="1.5.0" sparkle:os="ios"/>
         </item>
     </channel>
 </rss>
