@@ -4,12 +4,13 @@
         <title>Espacio GT</title>
         <item>
             <title>Espacio GT v1.5.3</title>
-            <description>Novedades v1.5: Solicitud de Cursos de Formación para el Plan Anual de Formación 2025.</description>
+            <sparkle:version>1.5.3</sparkle:version>
+            <description>Novedades v1.5: Mejoras de seguridad y rendimiento.</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
             <sparkle:tags>
-                <sparkle:criticalUpdate sparkle:version="1.5.3"></sparkle:criticalUpdate>
+            <sparkle:criticalUpdate sparkle:version="1.5.3"></sparkle:criticalUpdate>
             </sparkle:tags>
-            <enclosure url="https://apps.apple.com/es/app/espacio-gt/id6449706010"  sparkle:version="1.5.0" sparkle:os="ios"/>
+            <enclosure url="https://play.google.com/store/apps/details?id=es.tragsa.mitra" sparkle:os="android" />
         </item>
         <item>
             <title>Espacio GT v1.5.0</title>
