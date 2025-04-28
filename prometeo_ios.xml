@@ -3,6 +3,16 @@
     <channel>
         <title>Espacio GT</title>
         <item>
+            <title>Espacio GT v1.8.1</title>
+            <sparkle:version>1.8.1</sparkle:version>
+            <description>Novedades v1.8.1: Gestión Itinerarios Formativos. Mejoras de seguridad y rendimiento.</description>
+            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <sparkle:tags>
+            <sparkle:criticalUpdate sparkle:version="1.8.1"></sparkle:criticalUpdate>
+            </sparkle:tags>
+            <enclosure url="https://apps.apple.com/es/app/espacio-gt/id6449706010" sparkle:os="ios" />
+        </item>
+        <item>
             <title>Espacio GT v1.7.0</title>
             <sparkle:version>1.7.0</sparkle:version>
             <description>Novedades v1.7.0: Canal del Informante. Mejoras de seguridad y rendimiento. Resolución de errores.</description>
