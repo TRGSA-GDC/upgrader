@@ -3,6 +3,16 @@
     <channel>
         <title>Espacio GT</title>
         <item>
+            <title>Espacio GT v1.11.0</title>
+            <sparkle:version>1.11.0</sparkle:version>
+            <description>Novedades v1.11.0: Club de Ofertas Grupo Tragsa. Mejoras de seguridad y rendimiento.</description>
+            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <sparkle:tags>
+            <sparkle:criticalUpdate sparkle:version="1.11.0"></sparkle:criticalUpdate>
+            </sparkle:tags>
+            <enclosure url="https://play.google.com/store/apps/details?id=es.tragsa.mitra" sparkle:os="android" />
+        </item>
+        <item>
             <title>Espacio GT v1.10.0</title>
             <sparkle:version>1.10.0</sparkle:version>
             <description>Novedades v1.10.0: Detección Necesidades Plan Formación 2026. Mejoras de seguridad y rendimiento.</description>
